@@ -55,7 +55,7 @@ It uses **Spring Cloud**, **Eureka Server**, **OpenFeign**, and **Spring Gateway
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/seriouslyanuj/QuizApp.git
+gh repo clone manisha9555/Microservices_QuizApp
 cd QuizApp
 ````
 ---
